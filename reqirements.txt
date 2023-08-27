@@ -5,3 +5,5 @@ openai
 wikipedia
 SpeechRecognition
 pyttsx3
+pywhatkit
+AppOpener
